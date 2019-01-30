@@ -1,6 +1,7 @@
     /* Created by: Mohamad Issa
-	  Write code in any language to 
-	  convert the coordinates into an image.
+	  Write code to 
+	  convert specified data of pixels 
+           into an image.
 	*/
 	
 	var canvWith = 400;
